@@ -1,6 +1,7 @@
 # JS01 Basics & JQuery
 
 This document encompasses notes, expectations, and ideas for JS01 @ NHA.
+The contents of this document also serve to provide our students with resources and a general idea of our teaching style.
 
 ## Resources
 - [JQuery Documentation](https://api.jquery.com/)
