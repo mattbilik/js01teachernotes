@@ -11,6 +11,6 @@ The contents of this document also serve to provide our students with resources 
 
 ## Weekly Notes & Ideas for Curriculum Revision
 1. [Week 1](week1.md)
-whoosh!
-5. [Week 5](week5.md) Time Travel is awesome!
+__>
+5. [Week 5](week5.md) 
 
